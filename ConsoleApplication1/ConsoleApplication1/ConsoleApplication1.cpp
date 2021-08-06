@@ -9,6 +9,9 @@ int main()
     cout << "Hello World!\n";
     cout << "Bienvenidos a LP1" << endl;
     cout << "Bienvenidos a LP1 de manuel" << endl;
+    cout << "Bienvenidos a LP1 de manuel" << endl;
+    cout << "Bienvenidos a LP1 de manuel" << endl;
+    cout << "Bienvenidos a LP1 de manuel" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
